@@ -130,4 +130,4 @@ the data produced by the pipeline.
 
 ## License
 
-MIT License.
+MIT License
