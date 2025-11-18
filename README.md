@@ -131,3 +131,6 @@ the data produced by the pipeline.
 ## License
 
 MIT License
+
+## Created By
+Michał Kaczmarek
